@@ -1,0 +1,43 @@
+# Heavy lifters, you're not invited
+node_modules/
+vendor/
+
+# Mac's bad habits
+.DS_Store
+
+# Windows, why are you like this?
+Thumbs.db
+
+# Secrets that aren't very secret
+.env
+secrets.txt
+super_secret_plan.docx
+
+# Temporary... forever
+*.tmp
+*.bak
+*.swp
+*.cache
+
+# "It works, I promise"
+dist/
+build/
+out/
+
+# Embarrassing stuff
+dont_commit_this.js
+fix_me_later.py
+final_final_no_really_final.css
+
+# My editor is nosy
+.idea/
+.vscode/
+
+# Debugging my regrets
+debug.log
+why_does_this_not_work.txt
+
+# Files for future archaeologists
+ancient_code/
+unfinished_genius/
+refactor_next_year/
